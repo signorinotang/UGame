@@ -1,16 +1,25 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\tsLog.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="D:\VD\vd\Assets\Scripts\VDScreenEffect.cs">
     <Files>
-      <File FileName="Assets\tsLog.cs" Line="1" Column="1" />
-      <File FileName="D:\VD\vd\Assets\Scripts\NetWorkModule\SSNetwork.cs" Line="375" Column="5" />
-      <File FileName="D:\VD\vd\Assets\Plugins\Common\Utility\JpgEncoderCSharp.cs" Line="296" Column="9" />
-      <File FileName="D:\VD\vd\Assets\Plugins\Common\Utility\ssLogger.cs" Line="20" Column="33" />
-      <File FileName="D:\VD\vd\Assets\Plugins\Common\Utility\RealTimeLog.cs" Line="7" Column="14" />
+      <File FileName="D:\VD\vd\Assets\Scripts\MonoSingleton.cs" Line="6" Column="2" />
+      <File FileName="D:\VD\vd\Assets\Scripts\GlobalConfig.cs" Line="28" Column="17" />
+      <File FileName="D:\VD\vd\Assets\Plugins\NetWorkModule\Protocol\PkgCS_macros.cs" Line="1079" Column="39" />
+      <File FileName="D:\VD\vd\Assets\Plugins\TK2DROOT\tk2dTileMap\Code\tk2dTileMap.cs" Line="11" Column="21" />
+      <File FileName="D:\VD\vd\Assets\Scripts\Game\Grid\vdCustomSizeGridData.cs" Line="7" Column="43" />
+      <File FileName="D:\VD\vd\Assets\Scripts\Game\Grid\vdGridData.cs" Line="14" Column="13" />
+      <File FileName="D:\VD\vd\Assets\Scripts\ResDataModule\SceneDataManager.cs" Line="613" Column="37" />
+      <File FileName="D:\VD\vd\Assets\Scripts\VDCore\Data\SceneInfoData.cs" Line="252" Column="13" />
+      <File FileName="D:\VD\vd\Assets\Scripts\Editor\SceneInfoExporter.cs" Line="338" Column="79" />
+      <File FileName="D:\VD\vd\Assets\Scripts\VDCore\VDType.cs" Line="253" Column="63" />
+      <File FileName="D:\VD\vd\Assets\Playmaker NGUI Scripts\Scripts\Playmaker Actions\LoadAssetBundleList.cs" Line="1" Column="1" />
+      <File FileName="D:\VD\vd\Assets\Scripts\VDScreenEffect.cs" Line="71" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="D:\VD\vd\Assets\Scripts\Game\Grid\vdGridData.cs" line="14" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
